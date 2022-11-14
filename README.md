@@ -1,3 +1,13 @@
+# You can demo it here:
+
+[https://linkedinclone-react.netlify.app/](https://linkedinclone-react.netlify.app/)
+
+Screenshots:
+
+![Screenshot](public/screenshots/ss1.png?raw=true "Screenshot1")
+
+![Screenshot2](public/screenshots/ss2.png?raw=true "Screenshot2")
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
